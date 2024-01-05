@@ -1,0 +1,18 @@
+body{
+    background: url(https://wallpapers.com/images/hd/harry-potter-background-kbrb6vlqr8ych08x.jpg) no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: rgb(0,00,30);
+    text-align: center;
+}
+
+.box{
+    height: 8rem;
+    width: 8rem;
+    background-color: #35a56f;
+    border: .4rem solid #fff;
+    border-radius: 0.2rem;
+    margin: auto;
+}

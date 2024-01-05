@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(0,55,50);
+}
+
+h1{
+    color: rgb(100,100,100);
+    text-align: center;
+}
+p{
+    color: rgb(250, 665, 617);
+    text-align: justify;
+    text-indent: 1rem;
+    width: 50vw;
+    display: block;
+    margin: auto;
+    line-height: 1.5rem;
+    background-color: rgb(111, 111, 111);
+    padding: 1rem;
+}
