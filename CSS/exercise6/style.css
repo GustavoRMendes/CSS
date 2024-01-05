@@ -1,0 +1,20 @@
+.inline {
+  color: rgb(109, 12, 85);
+  display: inline;
+  margin-left: 20px;
+}
+p {
+  text-align: justify;
+  width: 30rem;
+  background-color: #3872;
+}
+/*Display block = Quebra de linha e largura máxima */
+.block {
+  display: block;
+  margin-bottom: 1rem;
+}
+/* Inline- block continua inline, porém com margem vertical e preenchimento disponível */
+.inline-block {
+  display: inline-block;
+  margin-top: 1rem;
+}

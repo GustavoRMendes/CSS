@@ -1,0 +1,15 @@
+.box{
+    margin: auto;
+    background-color: #191212;
+    margin-top: 4rem;
+    width: 20rem;
+    color: #fff;
+    padding: 1rem;
+    text-align: justify;
+    border: .4rem solid #911731;
+}
+h1{
+    text-align: center;
+    background-color:#409901;
+    color: #fff;
+}

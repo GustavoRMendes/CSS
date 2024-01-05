@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.box{
+    background-color: #363333;
+    width: 300px;
+    height: 200px;
+    color: #fff;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: .2rem;
+    text-align: justify;
+}
+.hidden{
+    display: none;
+}
+.active{
+    border: .3rem solid rgb(94, 94, 252);
+}
